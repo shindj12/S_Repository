@@ -1,0 +1,31 @@
+@CHARSET "EUC-KR";
+
+
+            .login { border:1px solid #25cad3; font-size:12px }
+            div { 
+                padding-top:40px;  }
+            #login_section {
+                position:absolute;
+                top:50%;
+                margin-top:-290px;
+                left:50%;
+                margin-left:-175px;
+                padding:30px;
+                text-align:middle;
+                width:300px;
+                height:400px; }
+            .login_input {
+
+                margin-top:15px; 
+                padding-left:8px;
+                width:266px; 
+                height:30px;
+                color:#25cad3; }
+            #login_button {
+                border:0px;
+                background:#25cad3;
+                margin:10px;
+                margin-top:15px;
+                width:266px;
+                height:30px;
+                color:white; }
